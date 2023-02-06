@@ -14,6 +14,12 @@
 .meals-loading {
     text-align: center;
 }
+
+.meals-error {
+    text-align: center;
+    color: red;
+}
+
 @keyframes meals-appear {
     from {
         opacity: 0;
